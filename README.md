@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asmaar56
 - 👀 I’m interested in python
-- 🌱 I’m currently learning neural networks
+- 🌱 I’m currently learning lalalalallala
 - 💞️ I’m looking to collaborate on n/a
 - 📫 How to reach me: Asmaar56 #6138
 
